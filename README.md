@@ -19,7 +19,7 @@
 </p>
 <p align="center">
 PREMIUM VERSION:
-<a href="https://gangnuker.org/">WEBSITE</a>
+<a href="https://discord.gg/3HvmaUxRv9">WEBSITE</a>
 </p>
  
 ---
