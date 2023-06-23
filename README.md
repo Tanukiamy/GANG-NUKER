@@ -53,8 +53,7 @@ PREMIUM VERSION:
 Download GANG-Nuker.zip
 Extract File
 Tap "Install.bat" in GANG Folder
-Open cmd
-py builder.exe or just launch it
+Launch builder.exe and you should be good ;)
 
 NOTE: When Opening GANG-Nuker Just Tap "start.bat" to Open Everytime!
 NOTE: Make sure you have Python 3.9+ and Added to Path.
