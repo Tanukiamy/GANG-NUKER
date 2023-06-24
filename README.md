@@ -49,6 +49,7 @@ PREMIUM VERSION:
 ## Installation
 
 #### Source Code Version (More complicated but less buggy)
+```it is important to disabled antivirus for it to work !```
 ```sh-session
 Download GANG-Nuker.zip
 Extract File
